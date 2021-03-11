@@ -8,6 +8,10 @@ public class PaidHours {
         return 1;
     }
 
+    public static int sixPm() {
+        return 2;
+    }
+
     public static int tenPm() {
         return 6;
     }
@@ -34,6 +38,10 @@ public class PaidHours {
 
     public static int twoAm() {
         return 10;
+    }
+
+    public static int threeAm() {
+        return 11;
     }
 
     public static int fourAm() {
