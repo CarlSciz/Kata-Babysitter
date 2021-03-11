@@ -16,6 +16,10 @@ public class PaidHours {
         return 4;
     }
 
+    public static int ninePm() {
+        return 5;
+    }
+
     public static int elevenPm() {
         return 7;
     }
